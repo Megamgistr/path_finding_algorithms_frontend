@@ -1,0 +1,19 @@
+.cell {
+    height: 27px;
+    border-right: cornflowerblue solid;
+    border-bottom: cornflowerblue solid;
+    display: inline-block;
+    inline-size: 27px;
+}
+
+.visited {
+    background-color: #4CAF50;
+}
+
+.path {
+    background-color: aqua;
+}
+
+.disabled {
+    background-color: chocolate;
+}

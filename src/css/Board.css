@@ -1,0 +1,7 @@
+.board {
+    display: inline-flex;
+    flex-direction: column;
+    border-top: cornflowerblue solid;
+    border-left: cornflowerblue solid;
+    margin: 50px 10px 10px 10px;
+}
